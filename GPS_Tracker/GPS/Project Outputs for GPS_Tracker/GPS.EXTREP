@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: GPS.GBR   25.10.2023  18:45:31
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.G1                 Inner Layer 1                           
+.G2                 Inner Layer 2                           
+.GBL                Bottom Layer                            
+.GPB                Bottom Pad Master                       
+.GPT                Top Pad Master                          
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GKO                Keep-Out Layer                          
+.GM1                Mechanical 1                            
+.GM7                Mechanical 7                            
+.GM13               Mechanical 13                           
+.GM15               Mechanical 15                           
+------------------------------------------------------------------------------------------

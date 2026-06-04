@@ -1,7 +1,0 @@
-Change Component Comment : Designator=R112 Old Comment=100k New Comment=10k
-Change Component Comment : Designator=R113 Old Comment=100k New Comment=10k
-Change Component Comment : Designator=R109 Old Comment=200R New Comment=250R
-Change Component Comment : Designator=R110 Old Comment=200R New Comment=250R
-Added Component: Designator=TP106(testpoint_50mils_round)
-Added Pin To Net: NetName=TX_NRF Pin=TP106-1
-Added Member To Class: ClassName=NRF9160 Member=Component TP106 testpointMini

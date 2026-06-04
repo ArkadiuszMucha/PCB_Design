@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=+DEBUG Pin=D108-1
+Removed Pin From Net: NetName=+VBAT Pin=D108-2
+Added Pin To Net: NetName=+VBAT Pin=D108-1
+Added Pin To Net: NetName=+DEBUG Pin=D108-2

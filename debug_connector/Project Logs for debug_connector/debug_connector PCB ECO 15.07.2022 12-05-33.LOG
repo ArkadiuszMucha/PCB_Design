@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=SWDIO Pin=TP100-1
+Removed Pin From Net: NetName=SWCLK Pin=TP101-1
+Removed Pin From Net: NetName=SWO Pin=TP103-1
+Removed Pin From Net: NetName=RESET Pin=TP105-1
+Removed Member From Class: ClassName=Main Member=TP100
+Removed Member From Class: ClassName=Main Member=TP101
+Removed Member From Class: ClassName=Main Member=TP105
+Added Room: Name=Main

@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=Main Member=TP119
+Added Component: Designator=TP117(testpoint_50mils_octagonal)
+Added Pin To Net: NetName=GND Pin=R128-1
+Added Pin To Net: NetName=T_VCP_RX Pin=TP117-1
+Added Room: Name=Main
